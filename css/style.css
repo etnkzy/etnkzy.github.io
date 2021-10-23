@@ -1840,4 +1840,13 @@ form label {
   opacity: 0;
 }
 
+.fh5co-cover {
+    background-image: url(../images/img_bg_2.jpg);
+}
+
+@media (max-width: 480px) {
+    .fh5co-cover {
+        background-image: url(../images/love2.jpg);
+    }
+}
 /*# sourceMappingURL=style.css.map */
